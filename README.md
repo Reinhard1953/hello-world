@@ -1,4 +1,4 @@
-# hello-world
+# Repository namens "hello-world" und Datei "README.md"
 
 Liebe Leser und Leserinnen,
 
