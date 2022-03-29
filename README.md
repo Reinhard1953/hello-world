@@ -1,6 +1,6 @@
 # hello-world
 
-Liebe Leser,
+Liebe Leser und Leserinnen,
 
 dies ist eine GitHub-Übung
 
